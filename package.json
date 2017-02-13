@@ -1,5 +1,6 @@
 {
     "name": "audiotoggle",
+    "version": "0.0.1",
     "author": "Timi Aiyemo",
     "description": "Cordova plugin for switching between speaker and earpiece when playing audio."
 }
