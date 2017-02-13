@@ -1,6 +1,6 @@
 {
   "name": "audiotoggler",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Toggle between speaker and earpiece when playing audio",
   "cordova": {
     "id": "com.cozzbie.audiotoggler",
