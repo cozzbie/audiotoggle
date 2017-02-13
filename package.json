@@ -1,6 +1,33 @@
 {
   "name": "audiotoggler",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "description": "Toggle between speaker and earpiece when playing audio",
+  "cordova": {
+    "id": "com.cozzbie.audiotoggler",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cozzbie/audiotoggle.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
   "author": "Timi Aiyemo",
-  "description": "Cordova plugin for switching between speaker and earpiece when playing audio."
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/cozzbie/audiotoggle/issues"
+  },
+  "homepage": "https://github.com/cozzbie/audiotoggle#readme"
 }
